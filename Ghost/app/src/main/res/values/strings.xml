@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Ghost</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_highscore">HighscoreActivity</string>
+    <string name="GameStartButtonText">Start Game</string>
+    <string name="AddPlayerButtonText">Add Player</string>
+    <string name="AddLetterButtonText">Add Letter</string>
+    <string name="SettingsButtonText">SETTINGS</string>
+    <string name="HighscoreButtonText">HIGHSCORES</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="MainMenuButtonText">Main Menu</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 </resources>

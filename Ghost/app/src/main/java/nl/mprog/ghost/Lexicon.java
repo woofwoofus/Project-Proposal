@@ -1,23 +1,16 @@
 package nl.mprog.ghost;
 
 import android.content.Context;
-import android.content.res.AssetManager;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Scanner;
 import java.util.Set;
 
 /**
- * Created by woofw_000 on 28/09/2015.
+ * Created by Jan Geestman 10375406
  */
 public class Lexicon {
 
